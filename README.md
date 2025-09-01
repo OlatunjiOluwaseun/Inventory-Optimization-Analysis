@@ -27,36 +27,36 @@ Cleaning Steps: Removed null values, standardized product names, ensured correct
 
 ## Methodology
 
-Imported dataset into Power BI.
+* Imported dataset into Power BI.
 
-Cleaned data using Power Query.
+* Cleaned data using Power Query.
 
-Created calculated columns and DAX measures:
+* Created calculated columns and DAX measures:
 
-Net Stock = In – Out
+* Net Stock = In – Out
 
-Movement Ratio = Out ÷ In
+* Movement Ratio = Out ÷ In
 
-Built visuals: bar charts, matrices, slicers.
+* Built visuals: bar charts, matrices, slicers.
 
-Applied filters for store-level analysis.
+* Applied filters for store-level analysis.
 
 ## Insights & Recommendations
 
 Rice: Most frequently moved product with strong customer demand.
-🔹 Recommendation: Increase Rice supply to Kano and Lagos stores, especially during peak months. Negotiate bulk procurement to reduce costs.
+* Recommendation: Increase Rice supply to Kano and Lagos stores, especially during peak months. Negotiate bulk procurement to reduce costs.
 
 Beans: Kano store recorded the highest inflow, but shortages occurred in some months.
-🔹 Recommendation: Distribute Beans more evenly across stores and use transfers between stores to balance supply.
+* Recommendation: Distribute Beans more evenly across stores and use transfers between stores to balance supply.
 
 Maize: Some stores held excess stock while others faced shortages.
-🔹 Recommendation: Redistribute excess stock, reduce future orders for overstocked stores, and use promotions to drive sales.
+* Recommendation: Redistribute excess stock, reduce future orders for overstocked stores, and use promotions to drive sales.
 
 Seasonal Trends: Spikes during harvest and festive periods.
-🔹 Recommendation: Plan procurement cycles in alignment with seasonal demand, use predictive models, and allocate extra logistics during peaks.
+* Recommendation: Plan procurement cycles in alignment with seasonal demand, use predictive models, and allocate extra logistics during peaks.
 
 Net Stock Variation: Some stores were overstocked while others understocked.
-🔹 Recommendation: Implement centralized monitoring in Power BI, automate redistribution, and train store managers on proactive practices.
+* Recommendation: Implement centralized monitoring in Power BI, automate redistribution, and train store managers on proactive practices.
 
 ## Conclusion
 
