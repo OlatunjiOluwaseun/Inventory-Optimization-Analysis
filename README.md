@@ -2,6 +2,9 @@
 
 # Inventory-Optimization-Analysis
 This project analyzes stock inflows, outflows, and balances across multiple retail stores using Power BI. The goal was to reduce overstocking, prevent stockouts, and improve overall supply efficiency.
+
+
+<img width="1236" height="702" alt="Screenshot 2025-09-01 135722" src="https://github.com/user-attachments/assets/5584523c-5fac-4281-aafc-c69873c77dc7" />
 # Inventory Optimization Analysis Report
 ## Executive Summary
 
@@ -61,9 +64,6 @@ Net Stock Variation: Some stores were overstocked while others understocked.
 ## Conclusion
 
 This analysis provided actionable insights into product inflows, outflows, and stock balances across stores. The findings help management reduce inefficiencies, prevent stockouts, and optimize supply.
-
-<img width="1236" height="702" alt="Screenshot 2025-09-01 135722" src="https://github.com/user-attachments/assets/5584523c-5fac-4281-aafc-c69873c77dc7" />
-
 
 
 
